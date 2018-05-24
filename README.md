@@ -8,12 +8,15 @@ We break down this task in following sub tasks:
 **3. Task 3:** Find correction candidates   
 **4. Task 4:** Build a rudimentary spell checker (Baseline version)    
 **5. Task 5:** Evaluation of baseline performance   
-**6. Task 6:** Develop an enhanced spell checker with NLP features like:
+**6. Task 6:** Develop an enhanced spell checker    
+**7. Task 7:** Evaluation of enhanced spell checker    
+
+The spell checker is enhanced with following NLP techniques:   
   - Handling *Named Entities*   
   - Word Contractions (I'll/ can't/ etc.)    
   - Consider word collocations with external corpus   
   - Good-Turing and Kneser–Ney smoothing    
-  - Linear interpolation of trigrams, bigrams and unigrams    
-**7. Task 7:** Evaluation of enhanced spell checker    
+  - Linear interpolation of trigrams, bigrams and unigrams       
+
 
 The final enhanced spell checker algorithm is around **<font color="blue">91.23 % accurate</font>** in spelling correction task. Morever, it uses smoothing and interpolation techniques that have ***lower perplexity*** than the original algorithm
