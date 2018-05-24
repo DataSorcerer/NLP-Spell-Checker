@@ -1,5 +1,5 @@
 # NLP-Spell-Checker
-A spell checking system with various NLP strategies using Python &amp; NLTK
+A spell checking system with various NLP strategies using Python &amp; NLTK     
 [Please check this detailed report and source code](https://github.com/DataSorcerer/NLP-Spell-Checker/blob/master/SpellCheckerPythonNLTK.ipynb)     
 
 A spell checking system is one of the most useful applications of Natural Language Processing. The objective of this task is to develop a spellchecking system, enhance it with various NLP techniques and evaluate of its performance using an annotated corpus.    
